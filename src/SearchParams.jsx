@@ -49,10 +49,6 @@ const SearchParams = () => {
               setAnimal(e.target.value);
               setBreed("");
             }}
-            onBlur={(e) => {
-              setAnimal(e.target.value);
-              setBreed("");
-            }}
           >
             <option />
             {ANIMALS.map((animal) => (
