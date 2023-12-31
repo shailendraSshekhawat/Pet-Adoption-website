@@ -11,7 +11,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
   "keywords": [],
-  "author": "Brian Holt",
+  "author": "Shailendra Singh",
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-react": "2.1.0",
