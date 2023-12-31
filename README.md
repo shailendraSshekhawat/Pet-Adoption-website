@@ -1,8 +1,5 @@
 # Pet Adoption App
 
-This project is made as part of a course i took on frontend masters **Complete Intro to react**.
-This course covers all the basic topics such as Function Components, Class Components, Error Boundaries, Hooks, ReactQuery etc.
-
 This Website is live [here](https://master--admirable-chaja-3e9504.netlify.app/)
 
 ## Table of Contents
