@@ -1,4 +1,4 @@
-# Project Name
+# Pet Adoption App
 
 This project is made as part of a course i took on frontend masters **Complete Intro to react**.
 This course covers all the basic topics such as Function Components, Class Components, Error Boundaries, Hooks, ReactQuery etc.
