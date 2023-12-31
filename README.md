@@ -17,11 +17,3 @@ Clone the Repository on your local machine. and run **npm i** to install require
 ## Usage
 
 to start the project in development mode run **npm run dev** command
-
-## Contributing
-
-Guidelines for contributing to your project and how others can get involved.
-
-## License
-
-Information about the license for your project.
